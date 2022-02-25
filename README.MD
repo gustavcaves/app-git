@@ -26,3 +26,10 @@ Debe estar ubicado en la rama donde va a combinar
 ````
 git merge nombrelarama
 ```
+
+## Agregar y Comentario en una sola linea
+
+
+````
+git commit -a -m "agrego orden"
+````
