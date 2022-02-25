@@ -17,13 +17,13 @@ git branch -D nombrerama
 
 ```
 git checkout nombrerama
-````
+```
 
 ## Combinar Rama
 
 Debe estar ubicado en la rama donde va a combinar
 
-````
+```
 git merge nombrelarama
 ```
 
