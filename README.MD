@@ -29,7 +29,6 @@ git merge nombrelarama
 
 ## Agregar y Comentario en una sola linea
 
-
-````
+```
 git commit -a -m "agrego orden"
-````
+```
