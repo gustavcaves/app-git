@@ -32,3 +32,21 @@ git merge nombrelarama
 ```
 git commit -a -m "agrego orden"
 ```
+<<<<<<< HEAD
+=======
+
+## Determinar el archivo remoto
+
+```
+git remote add origin https://...
+```
+
+## Subir a GitHub
+
+```
+git push origin main
+```
+
+...
+>>>>>>> desarrollo
+
