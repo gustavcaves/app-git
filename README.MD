@@ -29,7 +29,18 @@ git merge nombrelarama
 
 ## Agregar y Comentario en una sola linea
 
-
-````
+```
 git commit -a -m "agrego orden"
-````
+```
+
+## Determinar el archivo remoto
+
+```
+git remote add origin https://...
+```
+
+## Subir a GitHub
+
+```
+git push origin main
+```
